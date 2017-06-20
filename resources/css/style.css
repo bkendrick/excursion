@@ -10,13 +10,30 @@ h1{
     color: white;
 }
 
+h2{
+    font-family: Verdana;
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+
+}
+
 h5{
     font-family: Verdana;
     font-size: 21px;
     color: gray;
 }
 
-h6{
+a{
     color: aquamarine;
     font-size: 16px;
 }
+
+#footer{
+    color: gray;
+    text-align: right;
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> f3621506d4f4cf9a43468a73eac83b5e66a6eafb
